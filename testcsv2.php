@@ -30,6 +30,7 @@ if (($handle = fopen($mycsvfile, "r"))) {
 		}
 		else
 		echo " not successfully";
+                echo " not successfully";
     if($i==3)
 	die();
 	}
